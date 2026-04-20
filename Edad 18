@@ -6,5 +6,4 @@ ALGORITMO Control_Acceso
     // Estructura SI Simple
     SI edad >= 18 ENTONCES
         Escribir "Bienvenido al laboratorio de robótica"
-    FIN SI
 FIN ALGORITMO
