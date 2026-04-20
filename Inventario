@@ -6,5 +6,5 @@ ALGORITMO Validacion_Inventario
     // Estructura SI Simple
     SI piezas < 5 ENTONCES
         Escribir "Solicitar pedido urgente al proveedor"
-    FIN SI
+    
 FIN ALGORITMO
