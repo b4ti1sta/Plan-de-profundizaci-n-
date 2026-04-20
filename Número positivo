@@ -6,5 +6,5 @@ ALGORITMO Numero_Positivo
     // Estructura SI Simple
     SI num > 0 ENTONCES
         Escribir "El número es positivo"
-    FIN SI
+    
 FIN ALGORITMO
