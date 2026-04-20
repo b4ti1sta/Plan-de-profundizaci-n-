@@ -1,0 +1,10 @@
+ALGORITMO Aprobacion_SENA
+    Definir nota_final Como Real
+    Escribir "Ingrese la nota final (0.0 a 5.0):"
+    Leer nota_final
+    
+    // Estructura SI Simple
+    SI nota_final >= 3.5 ENTONCES
+        Escribir "Competencia Alcanzada"
+    FIN SI
+FIN ALGORITMO
