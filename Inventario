@@ -1,0 +1,10 @@
+ALGORITMO Validacion_Inventario
+    Definir piezas Como Entero
+    Escribir "Ingrese la cantidad de piezas en bodega:"
+    Leer piezas
+    
+    // Estructura SI Simple
+    SI piezas < 5 ENTONCES
+        Escribir "Solicitar pedido urgente al proveedor"
+    FIN SI
+FIN ALGORITMO
