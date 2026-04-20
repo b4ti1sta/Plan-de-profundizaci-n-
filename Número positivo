@@ -1,0 +1,10 @@
+ALGORITMO Numero_Positivo
+    Definir num Como Real
+    Escribir "Ingrese un número:"
+    Leer num
+    
+    // Estructura SI Simple
+    SI num > 0 ENTONCES
+        Escribir "El número es positivo"
+    FIN SI
+FIN ALGORITMO
